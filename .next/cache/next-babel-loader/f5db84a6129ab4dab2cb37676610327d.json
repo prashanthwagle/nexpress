@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nfunction Index() {\n  return __jsx(\"div\", null, \"Hello World. This is NexPress\");\n}\n\nexport default Index;","map":null,"metadata":{},"sourceType":"module"}
